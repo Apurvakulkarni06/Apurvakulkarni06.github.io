@@ -20,7 +20,7 @@
     /* Home section */
     
     .customDiv {
-        background-image: url("images/main.jpg");
+        background-image: url("images/bg-image2.jpg");
         height: 100%;
         filter: blur(8px);
         -webkit-filter: blur(8px);
